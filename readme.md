@@ -1,11 +1,10 @@
 
 # NFT Landing HTML, SCSS, Js, Gulp
 
-Modern NFT landing based on HTML, SCSS, Js and Gulp, the process of work was shown on YouTube
+Modern NFT landing based on HTML, SCSS, Js and Gulp
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/1Zjh96Y/15.jpg)
-## The process of work
 
 ## Installation
 
